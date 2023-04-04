@@ -4,7 +4,7 @@ import requests
 import pandas as pd
 
 # Get the APILayer key
-api_key = 'k2uETUnTXnOYUzH3G1mhRSbzbznKIYkB'
+api_key = 'xxxxxx'
 
 # Construct the url
 url = 'https://api.apilayer.com/exchangerates_data/latest?base=EUR&apikey=' + api_key

@@ -3,9 +3,9 @@
 import ibm_db
 
 # Replace the placeholder values with your actual Db2 hostname, username, and password:
-dsn_hostname = "3883e7e4-18f5-4afe-be8c-fa31c41761d2.bs2io90l08kqb1od8lcg.databases.appdomain.cloud"
-dsn_uid = "zzc19682"
-dsn_pwd = "mw9yI35cCedp5pd0"
+dsn_hostname = "XXXXXX.databases.appdomain.cloud"
+dsn_uid = "XXXXX"
+dsn_pwd = "XXXXXXX"
 
 dsn_driver = "{IBM DB2 ODBC DRIVER}"
 dsn_database = "bludb"
