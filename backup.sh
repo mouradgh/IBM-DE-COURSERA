@@ -3,6 +3,9 @@
 # This Shell script compresses and archives the files that have been modified in the last 24 hours in a specified folder
 # The script takes as arguments the folder that we want to archive and where we want to save the resulting compressed file
 
+# The script may be executed daily to backup important files using the crontab bellow
+# 0 0 * * * /usr/local/bin/backup.sh /home/project/important-documents /home/project
+
 # This checks if the number of arguments is correct
 # If the number of arguments is incorrect ( $# != 2) print error message and exit
 if [[ $# != 2 ]]
