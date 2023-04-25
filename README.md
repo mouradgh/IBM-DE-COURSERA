@@ -10,3 +10,6 @@ This code will help you connect to IBM's cloud database db2, and execute basic q
 
 ## web_scrapping
 This code will help you scrap web pages using the BeautifulSoup library
+
+## bash_etl
+A basic ETL script using shell
