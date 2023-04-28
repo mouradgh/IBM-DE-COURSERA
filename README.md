@@ -13,3 +13,6 @@ This code will help you scrap web pages using the BeautifulSoup library
 
 ## bash_etl
 A basic ETL script using shell
+
+## my_first_dag
+An Apache Airflow DAG to get started
